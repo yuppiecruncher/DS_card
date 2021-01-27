@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/DS_card/static/css/main.f78f0fde.chunk.css",
-    "main.js": "/DS_card/static/js/main.f6961ae9.chunk.js",
-    "main.js.map": "/DS_card/static/js/main.f6961ae9.chunk.js.map",
+    "main.js": "/DS_card/static/js/main.be71c70c.chunk.js",
+    "main.js.map": "/DS_card/static/js/main.be71c70c.chunk.js.map",
     "runtime-main.js": "/DS_card/static/js/runtime-main.968ed8a1.js",
     "runtime-main.js.map": "/DS_card/static/js/runtime-main.968ed8a1.js.map",
     "static/js/2.1ae9dfbd.chunk.js": "/DS_card/static/js/2.1ae9dfbd.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.968ed8a1.js",
     "static/js/2.1ae9dfbd.chunk.js",
     "static/css/main.f78f0fde.chunk.css",
-    "static/js/main.f6961ae9.chunk.js"
+    "static/js/main.be71c70c.chunk.js"
   ]
 }
