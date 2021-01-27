@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/DS_card/static/css/main.c50917eb.chunk.css",
-    "main.js": "/DS_card/static/js/main.19ee65b2.chunk.js",
-    "main.js.map": "/DS_card/static/js/main.19ee65b2.chunk.js.map",
+    "main.css": "/DS_card/static/css/main.f78f0fde.chunk.css",
+    "main.js": "/DS_card/static/js/main.f6961ae9.chunk.js",
+    "main.js.map": "/DS_card/static/js/main.f6961ae9.chunk.js.map",
     "runtime-main.js": "/DS_card/static/js/runtime-main.968ed8a1.js",
     "runtime-main.js.map": "/DS_card/static/js/runtime-main.968ed8a1.js.map",
     "static/js/2.1ae9dfbd.chunk.js": "/DS_card/static/js/2.1ae9dfbd.chunk.js",
@@ -10,13 +10,14 @@
     "static/js/3.8018e6c3.chunk.js": "/DS_card/static/js/3.8018e6c3.chunk.js",
     "static/js/3.8018e6c3.chunk.js.map": "/DS_card/static/js/3.8018e6c3.chunk.js.map",
     "index.html": "/DS_card/index.html",
-    "static/css/main.c50917eb.chunk.css.map": "/DS_card/static/css/main.c50917eb.chunk.css.map",
-    "static/js/2.1ae9dfbd.chunk.js.LICENSE.txt": "/DS_card/static/js/2.1ae9dfbd.chunk.js.LICENSE.txt"
+    "static/css/main.f78f0fde.chunk.css.map": "/DS_card/static/css/main.f78f0fde.chunk.css.map",
+    "static/js/2.1ae9dfbd.chunk.js.LICENSE.txt": "/DS_card/static/js/2.1ae9dfbd.chunk.js.LICENSE.txt",
+    "static/media/ian_profile.914174f5.jpg": "/DS_card/static/media/ian_profile.914174f5.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.968ed8a1.js",
     "static/js/2.1ae9dfbd.chunk.js",
-    "static/css/main.c50917eb.chunk.css",
-    "static/js/main.19ee65b2.chunk.js"
+    "static/css/main.f78f0fde.chunk.css",
+    "static/js/main.f6961ae9.chunk.js"
   ]
 }
