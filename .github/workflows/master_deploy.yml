@@ -22,5 +22,4 @@ jobs:
         git config --global user.email ${{secrets.REPO_EMAIL}}
         git config --global user.name ${{secrets.REPO_USERNAME}}
         git remote set-url origin https://${{secrets.GH_REPO_TOKEN}}@github.com/${{secrets.REPO_USERNAME}}/DS_card.git
-        git remote set-url origin https://your_personal_access_token>@github.com/your_github_username>/your_repo>.git
         npm run deploy
