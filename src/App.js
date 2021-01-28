@@ -8,7 +8,7 @@ function App() {
       <h2> Author: Ian Smith </h2>
       <p> Web Builder Extraordinaire </p>
       <ul><li>Now with more ACTIONS!</li></ul>
-      <img className="headshot" src={profileImage} alt="Profile Image" />
+      <img className="headshot" src={profileImage} alt="Profile" />
     </div>
   );
 }
