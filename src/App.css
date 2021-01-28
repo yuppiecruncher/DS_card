@@ -40,3 +40,7 @@
 body {
   background-color: lightblue;
 }
+
+.headshot {
+  height: 200px;
+}
